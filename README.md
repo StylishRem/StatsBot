@@ -22,8 +22,6 @@ Follow these steps to get your own instance of the YouTube Stats Discord Bot up 
 - A YouTube Data API key (obtainable from the [Google Developers Console](https://console.developers.google.com/))
 
 ### 2. Clone the Repository
-
-```bash
 git clone https://github.com/StylishRem/StatsBot.git
 cd StatsBot
 pip install -r requirements.txt
