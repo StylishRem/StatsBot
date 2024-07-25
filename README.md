@@ -1,6 +1,6 @@
 # StatsBot
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=StylishRem&repo=your-repo-name" alt="Repository Stats">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StylishRem&repo=StatsBot" alt="Repository Stats">
 
 ## Features
 
