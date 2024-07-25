@@ -1,5 +1,7 @@
 # StatsBot
 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=StylishRem&repo=your-repo-name" alt="Repository Stats">
+
 ## Features
 
 - Fetches and displays YouTube video details.
@@ -27,3 +29,4 @@ cd StatsBot
 pip install -r requirements.txt
 
 ### 3. Set up the JSON file
+StatsBot
